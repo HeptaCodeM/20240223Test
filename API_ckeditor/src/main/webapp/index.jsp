@@ -14,11 +14,8 @@
 	<div class="container" style="margin: 200px auto; ">
 	<a href="./boardList.do">게시판으로 이동</a>
 	<h1>안녕하세요</h1>
-<<<<<<< HEAD
 	<h1>류종윤!!!!!!!!</h1>
-=======
-	<h1>테스트1</h1>
->>>>>>> branch 'CION' of https://github.com/HeptaCodeM/20240223Test.git
+
 	</div>
 </body>
 </html>
